@@ -1678,7 +1678,7 @@ input, select, textarea {
 		-webkit-appearance: none;
 		position: relative;
 		display: inline-block;
-		color: #800080 !important;
+		color: #ce0f70 !important;
 		text-decoration: none;
 		font-weight: 700;
 		border: 2px solid #ce0f70;
@@ -1803,7 +1803,7 @@ input, select, textarea {
 					transition: background-color .2s ease-in-out;
 					background-color: #fff;
 					border-radius: 6px;
-					color: #800080 !important;
+					color: #ce0f70 !important;
 					display: block;
 					font-size: 26px;
 					height: 48px;
